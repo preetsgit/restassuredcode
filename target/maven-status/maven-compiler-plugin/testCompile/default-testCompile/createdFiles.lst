@@ -1,0 +1,6 @@
+com\rs\qa\ReqResUserMgmtTests\ReqResUserPostTests.class
+com\rs\qa\ReqResUserMgmtTests\ReqResUserDeleteTests.class
+com\rs\qa\ReqResUserMgmtTests\DataDriverTests.class
+com\rs\qa\AppTest.class
+com\rs\qa\ReqResUserMgmtTests\ReqResUserGetTests.class
+com\rs\qa\ReqResUserMgmtTests\ReqResUserPutTests.class
